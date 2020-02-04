@@ -3,46 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/exploring-trends-and-data/</loc>
-    <lastmod>2020-02-04T12:00:39+00:00</lastmod>
+    <loc>https://example.com/categories/</loc>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2020-02-04T12:00:39+00:00</lastmod>
+    <loc>https://example.com/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-02-04T12:00:39+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/open-projects-i-have-been-working/</loc>
-    <lastmod>2020-02-04T12:00:05+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/articles-about-data-finance/</loc>
-    <lastmod>2020-02-04T11:59:05+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/articles-about-data-management/</loc>
-    <lastmod>2020-02-04T11:58:22+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/articles-about-data-marketing-decisions/</loc>
-    <lastmod>2020-02-04T11:53:32+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+    <loc>https://example.com/tags/</loc>
   </url>
   
 </urlset>
