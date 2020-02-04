@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects &amp; Ideas</title>
+    <link>/</link>
+    <description>Recent content on Projects &amp; Ideas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Feb 2020 12:00:39 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exploring Trends and Data</title>
+      <link>/post/exploring-trends-and-data/</link>
+      <pubDate>Tue, 04 Feb 2020 12:00:39 +0000</pubDate>
+      
+      <guid>/post/exploring-trends-and-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Projects I Have Been Working</title>
+      <link>/post/open-projects-i-have-been-working/</link>
+      <pubDate>Tue, 04 Feb 2020 12:00:05 +0000</pubDate>
+      
+      <guid>/post/open-projects-i-have-been-working/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Articles About Data &amp; Finance</title>
+      <link>/post/articles-about-data-finance/</link>
+      <pubDate>Tue, 04 Feb 2020 11:59:05 +0000</pubDate>
+      
+      <guid>/post/articles-about-data-finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Articles About Data &amp; Management</title>
+      <link>/post/articles-about-data-management/</link>
+      <pubDate>Tue, 04 Feb 2020 11:58:22 +0000</pubDate>
+      
+      <guid>/post/articles-about-data-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Articles About Data Marketing &amp; Decisions</title>
+      <link>/post/articles-about-data-marketing-decisions/</link>
+      <pubDate>Tue, 04 Feb 2020 11:53:32 +0000</pubDate>
+      
+      <guid>/post/articles-about-data-marketing-decisions/</guid>
+      <description>Ideas i shared with comunity about the changing role of data on everyday CMO decisions
+From wild season to clever season</description>
+    </item>
+    
+  </channel>
+</rss>
