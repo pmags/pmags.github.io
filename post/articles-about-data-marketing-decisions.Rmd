@@ -7,3 +7,5 @@ draft: true
 Ideas i shared with comunity about the changing role of data on everyday CMO decisions
 
 [From wild season to clever season](https://medium.com/deepmarket/from-wild-season-to-clever-season-7ae0540cb258)
+
+[Data Driven Marketing: what it is and how it supports smarte decisions](https://medium.com/deepmarket/data-driven-marketing-what-it-is-and-how-it-supports-smarter-decisions-5520ecda92b6)
